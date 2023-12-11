@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 
-- 👨‍💻 All of my projects are available at [https://64aa792d07c5a60db1d765b4--rad-syrniki-b00bf6.netlify.app/](https://64aa792d07c5a60db1d765b4--rad-syrniki-b00bf6.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://65775491f8c9512a73742548--brilliant-empanada-88e5cf.netlify.app/](https://65775491f8c9512a73742548--brilliant-empanada-88e5cf.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS, JavaScript, React**
 

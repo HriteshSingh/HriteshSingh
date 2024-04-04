@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hritesh Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5f0587cc320dbf158dc5766d3a67dc1572968d28aff15534ced7420c4568600d/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f657a6769662e636f6d2d6769662d6d616b65722d31362e676966">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hriteshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="hriteshsingh" /> </p>
 
